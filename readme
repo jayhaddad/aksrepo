@@ -1,1 +1,4 @@
-hi
+This repo is showing how I created an AGIC deployment in AKS
+
+1. Exexcute the environment shell script which deploys networking, appgw, aks.
+2. Execute sample yaml file.
